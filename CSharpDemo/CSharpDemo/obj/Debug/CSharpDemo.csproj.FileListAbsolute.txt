@@ -1,0 +1,15 @@
+D:\台电闪酷\5131应用储存\光速搜索sdk\SDK 2\SDK\bin\CSharpDemo.exe
+D:\台电闪酷\5131应用储存\光速搜索sdk\SDK 2\SDK\bin\CSharpDemo.pdb
+D:\台电闪酷\5131应用储存\光速搜索sdk\SDK 2\SDK\CSharpDemo\CSharpDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\台电闪酷\5131应用储存\光速搜索sdk\SDK 2\SDK\CSharpDemo\CSharpDemo\obj\Debug\CSharpDemo.exe
+D:\台电闪酷\5131应用储存\光速搜索sdk\SDK 2\SDK\CSharpDemo\CSharpDemo\obj\Debug\CSharpDemo.pdb
+D:\台电闪酷\5131应用储存\光速搜索sdk\SDK 2\SDK\CSharpDemo\CSharpDemo\obj\Debug\CSharpDemo.Form1.resources
+D:\台电闪酷\5131应用储存\光速搜索sdk\SDK 2\SDK\CSharpDemo\CSharpDemo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\台电闪酷\5131应用储存\光速搜索sdk\SDK 2\SDK\CSharpDemo\CSharpDemo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\IdeaProject\光速搜索sdk\SDK 2\SDK\CSharpDemo\CSharpDemo\obj\Debug\CSharpDemo.pdb
+F:\IdeaProject\光速搜索sdk\SDK 2\SDK\bin\CSharpDemo.exe
+F:\IdeaProject\光速搜索sdk\SDK 2\SDK\bin\CSharpDemo.pdb
+F:\IdeaProject\光速搜索sdk\SDK 2\SDK\CSharpDemo\CSharpDemo\obj\Debug\CSharpDemo.csprojResolveAssemblyReference.cache
+F:\IdeaProject\光速搜索sdk\SDK 2\SDK\CSharpDemo\CSharpDemo\obj\Debug\CSharpDemo.Form1.resources
+F:\IdeaProject\光速搜索sdk\SDK 2\SDK\CSharpDemo\CSharpDemo\obj\Debug\CSharpDemo.csproj.GenerateResource.Cache
+F:\IdeaProject\光速搜索sdk\SDK 2\SDK\CSharpDemo\CSharpDemo\obj\Debug\CSharpDemo.exe
